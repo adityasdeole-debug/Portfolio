@@ -1,0 +1,49 @@
+body{
+background-color: #EDE8E8;
+}
+ .mydiv{
+	width:1200px;
+	height:570px;
+	border:2px solid purple;
+	border-radius:6px;
+	background-color:#FF7373;
+	background: #222;
+            color: white;
+
+}
+ .mydiv1{
+	width:1200px;
+	height:60px;
+	border:2px solid purple;
+	border-radius:6px;
+	background-color: Yellow;
+	text-align:Left;
+	color: black;
+
+}
+
+
+p{ 
+	font-size:40;}
+
+p2{ 
+	font-size:30;
+	
+}  footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+ header {
+            background: #222;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;}
+    .circle-img {
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 5px solid white;
+    }
